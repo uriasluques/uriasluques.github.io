@@ -1,2 +1,2 @@
 # uriasluques.github.io
-Meu repositorio Web / My web repository
+Meu portfólio Web / My Web Portfolio
